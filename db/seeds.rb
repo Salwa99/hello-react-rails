@@ -1,9 +1,9 @@
 greetings = %w[
-  'سلام',
-  'Hello',
-  'Bonjour',
-  'Hola',
-  'Ciao'
+  سلام
+  Hello
+  Bonjour
+  Hola
+  Ciao
 ]
 
 greetings.each do |message|
